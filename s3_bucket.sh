@@ -3,3 +3,4 @@ echo "aws s3api create-bucket --bucket bucketcreatebyarminedevops2 --region us-e
 {
     "Location": "/bucketcreatebyarminedevops2"
 }
+https://github.com/ArmineKhachatryan1982/s3/settings/access
